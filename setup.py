@@ -10,7 +10,7 @@ setup(
     description="",
     py_modules=["actividad_1", "actividad_2"],
     install_requires=[
-        "pandas"
+        "pandas",
         "requests",
         "numpy",
         "openpyxl",
